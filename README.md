@@ -1,23 +1,19 @@
-# CommunityClassroomOP
+# CommonCL
 
-A focused repository for community-learning resources and contribution practice.
+A small experimental repository for exploring reusable command-line tooling and developer workflows.
 
-## Purpose
+## Current status
 
-This repository is intended to make learning resources easier to organize, improve, and contribute to collaboratively.
+This repository is a placeholder for future implementation work. It currently does not claim production-ready functionality.
 
-## Contribution workflow
+## Planned first milestone
 
-1. Open an issue describing a concrete improvement.
-2. Keep changes small and focused.
-3. Explain what changed and how it was checked in the pull request.
-4. Prefer corrections that improve clarity, accuracy, or usefulness for learners.
+- Define one useful CLI command
+- Document inputs, outputs, and failure cases
+- Add automated tests
+- Add CI validation
+- Publish an initial release when the implementation is stable
 
-## Roadmap
+## Contribution principle
 
-- [ ] Document the current resource structure
-- [ ] Add contribution examples
-- [ ] Add validation or formatting checks where applicable
-- [ ] Record meaningful changes in release notes
-
-This README avoids claiming functionality that is not currently present in the repository.
+Changes should add working functionality, tests, or documentation that accurately reflects the current implementation. Avoid placeholder commits or artificial activity.
